@@ -1,5 +1,5 @@
 # ECoaching
- Affordable & versatile digital classroom solution for teachers, coaching institutes & schools. Made on yop of Ghost CMS.
+ Affordable & versatile digital classroom solution for teachers, coaching institutes & schools. Made on top of Ghost CMS.
  Demo link: https://demo.ecoaching.uniclick.in/
  
 ## Functionalities
